@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(protected)/settings/exports/backup/route": "app/(protected)/settings/exports/backup/route.js",
+  "/blob/[...path]/route": "app/blob/[...path]/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/page": "app/page.js",
+  "/(protected)/authors/page": "app/(protected)/authors/page.js",
+  "/(protected)/settings/page": "app/(protected)/settings/page.js",
+  "/(protected)/books/page": "app/(protected)/books/page.js",
+  "/(protected)/users/page": "app/(protected)/users/page.js"
+}
