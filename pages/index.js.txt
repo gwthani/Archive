@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>مرحبًا بك في موقعي باستخدام Next.js!</h1>;
+  return (
+    <div style={{ textAlign: 'center', marginTop: '100px' }}>
+      <h1>مرحبًا بك في موقعي</h1>
+      <p>تم النشر بنجاح على Vercel 🎉</p>
+    </div>
+  );
 }
